@@ -6,4 +6,4 @@ create branch
 
 vscodeで開いた
 
-feachするよ
+fetchするよ
